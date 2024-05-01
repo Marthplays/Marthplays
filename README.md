@@ -1,7 +1,7 @@
 Olá, Sou o Matheus Rocha 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![Matheus GitHub stats].(https://github-readme-stats.vercel.app/api?username=Marthplays&show_icons=true&theme=radical).
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Marthplays&show_icons=true&theme=radical).
 
 Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br/>
