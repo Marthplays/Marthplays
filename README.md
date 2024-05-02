@@ -12,7 +12,8 @@ Tecnologias que uso no meu dia a dia:
 
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black&logoSize=auto"/>
 
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-7374?style=for-the-badge&logo=OpenJDK&logoColor=black&color=%23ea2d2f"/>
+  <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+          "/>
 
 </div>
 
