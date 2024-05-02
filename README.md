@@ -34,4 +34,4 @@
 </div>
 
 #
-![Snake animation](https://github.com/Marthplays/Marthplays/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Marthplays/Marthplays/dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
