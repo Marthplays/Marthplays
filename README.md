@@ -21,5 +21,6 @@ Tecnologias que uso no meu dia a dia:
 <div>
 <a href="https://github.com/Marthplays">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Marthplays&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/apiMarthplays&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/Marthplays&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 </div>
