@@ -1,7 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Rocha Sousa! 
+##
+- :books: Currently studying Information Systems at FIAP
+- :house: I live in São Paulo city
 
-Technologies I use in my daily life:
+
+### Technologies I use in my daily life:
 <div style="display: inline_block"><br/>
   <img align="justify" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 
