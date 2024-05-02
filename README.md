@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Rocha Sousa! 
 
-Tecnologias que uso no meu dia a dia:
+Technologies used in my daily life:
 <div style="display: inline_block"><br/>
   <img align="justify" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 
