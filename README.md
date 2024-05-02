@@ -4,7 +4,7 @@
 - :house: I live in São Paulo city.
 - :computer: Currently learning JavaScript, Java, HTML and CSS.
 
-### Technologies I use in my daily life:
+### Technologies I use in my daily life
 <div style="display: inline_block"><br/>
   <img align="justify" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 
@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-## Contacts:
+## Contacts
 
 <div>
 <a href = "mailto:mrs.matheusrochasousa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,7 +26,7 @@
 
 
 
-#
+# GitHub Stats
 <a href="https://github.com/Marthplays">
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=Marthplays&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
