@@ -1,6 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Rocha Sousa! 
-##
 - :books: Currently studying Information Systems at FIAP
 - :house: I live in São Paulo city
 
