@@ -5,7 +5,6 @@ Olá, Sou o Matheus Rocha 👋
 
 Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br/>
-
   <img align="justify" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 
   <img align="justify" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
