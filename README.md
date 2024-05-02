@@ -1,7 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Matheus Rocha Sousa! [![Linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg)]()
-
-
+## My name is Matheus Rocha Sousa! 
 
 Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br/>
@@ -12,10 +10,17 @@ Tecnologias que uso no meu dia a dia:
   <img align="justify" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
   <img align="justify" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+</div>
+<br/>
 
+## Contatos:
+
+<div>
+<a href = "mailto:mrs.matheusrochasousa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br/>
+
 
 <div>
 <a href="https://github.com/Marthplays">
